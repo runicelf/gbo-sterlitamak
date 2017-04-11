@@ -296,6 +296,10 @@ h2:before {
   padding-bottom: 7px;
   width: 60px;
 }
+.contacts span {
+  vertical-align: top;
+  color: #000;
+}
 .vk {
   background-image: url(../images/1478910566_vkontakte.png);
   background-size: cover;
